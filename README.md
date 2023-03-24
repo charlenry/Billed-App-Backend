@@ -6,12 +6,12 @@
 
 ### Cloner le projet:
 ```
-git clone https://github.com/OpenClassrooms-Student-Center/Billed-app-FR-Back.git
+git clone https://github.com/charlenry/Billed-App-Backend.git
 ```
 
 ### Acceder au repertoire du projet :
 ```
-cd Billed-app-FR-Back
+cd Billed-App-Backend
 ```
 
 ### Installer les dépendances du projet :
@@ -52,12 +52,12 @@ mot de passe : employee
 
 ### Clone the projet:
 ```
-git clone https://github.com/OpenClassrooms-Student-Center/Billed-app-FR-Back.git
+git clone https://github.com/charlenry/Billed-App-Backend.git
 ```
 
 ### Go to the project directory :
 ```
-cd Billed-app-FR-Back
+cd Billed-App-Backend
 ```
 
 ### Install project dependancies :
