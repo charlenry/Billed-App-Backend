@@ -6,12 +6,12 @@
 
 ### Cloner le projet:
 ```
-git clone https://github.com/charlenry/Billed-App-Backend.git
+git clone https://github.com/charlenry/Billed-app-FR-Back.git
 ```
 
 ### Acceder au repertoire du projet :
 ```
-cd Billed-App-Backend
+cd Billed-app-FR-Back
 ```
 
 ### Installer les dépendances du projet :
@@ -52,12 +52,12 @@ mot de passe : employee
 
 ### Clone the projet:
 ```
-git clone https://github.com/charlenry/Billed-App-Backend.git
+git clone https://github.com/charlenry/Billed-app-FR-Back.git
 ```
 
 ### Go to the project directory :
 ```
-cd Billed-App-Backend
+cd Billed-app-FR-Back
 ```
 
 ### Install project dependancies :
